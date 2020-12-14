@@ -6,6 +6,6 @@
  git remote add origin https://github.com/marieswarank95/sample.git
  git pull origin master
  npm install express
- forever start app.js
+ forever restart app.js
  exit
 EOF
